@@ -1,29 +1,3 @@
-"""
-game_manager.py
-Murder Crossing Game: The Blackwood Case
-SWC3643 - Python Programming Language Project
-
-HOW TO ADD YOUR OWN CHARACTER IMAGES
---------------------------------------
-1. Create a folder called  images/  next to this file.
-2. Save each character image as a PNG with EXACTLY these filenames:
-       detective.png
-       butler.png
-       maid.png
-       doctor.png
-       nephew.png
-       knife.png
-       letter.png
-       key.png
-3. Recommended size: 75 × 90 pixels (or any size — they are auto-scaled).
-4. If an image file is missing, the game falls back to the coloured-card drawing.
-
-BACKGROUND IMAGES
-------------------
-   images/bg_menu.png    — used on the Main Menu  (1.png → rename to bg_menu.png)
-   images/bg_opening.png — used on the Opening / Story screen (2.png → rename to bg_opening.png)
-"""
-
 import os
 import pygame
 import sys
